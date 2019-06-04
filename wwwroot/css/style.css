@@ -1,0 +1,13 @@
+body {
+    background-color: #a6e3e9;
+}
+
+h1 {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.passcode {
+    padding: 20px;
+    text-align: center;
+}
